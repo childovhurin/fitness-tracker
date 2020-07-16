@@ -1,3 +1,4 @@
+  
 let mongoose = require("mongoose");
 let db = require("../models");
 
@@ -126,8 +127,8 @@ let workoutSeed = [
     day: new Date().setDate(new Date().getDate()-1),
     exercises: [
       {
-        type: "resistance",
-        name: "Bench",
+        type: "cardio",
+        name: "Walk",
         duration: 30,
         distance: 2
       }
