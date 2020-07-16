@@ -37,15 +37,12 @@
   ## Usage
 
   To start tracking your workouts with Exercise Tracker:  
-  1. Visit the webapp.
-  2. Select whether you'd like to 'Continue Workout' or create a 'New Workout' (if no prior workouts were logges, your only option will be to create a new workout)
-  3. Then, select the type of exercise you will perform for the workout.
-  4. After selecting the type, new input fields will allow you to submit the details of the exercise depending on whether it is a resistance or cardio exercise.
-  5. When done with the details, click 'Complete' if this is the only exercise you are adding to the workout.
-  6. Click 'Add Exercise' to continue adding exercises.
-  7. If adding multiple exercise to a workout, click 'Complete' after filling out the detail for the last exercise.
-  6. To see stats for all workouts, click on 'Dashboard' in the upper-left.
-  7. Click on 'Exercise Tracker' link in the upper left to return to the workout logger.
+  1. Select whether you'd like to 'Continue Workout' or create a 'New Workout' (if no prior workouts were logges, your only option will be to create a new workout)
+  2. Then, select the type of exercise you will perform for the workout.
+  3. New input fields will allow you to submit the details of the exercise depending on whether it is a resistance or cardio exercise.
+  4. Click 'Complete' if finished or 'Add Exercise' to continue adding exercises.
+  5. To see stats for all workouts, click on 'Dashboard' in the upper-left.
+  6. Click on 'Exercise Tracker' link in the upper left to return to the workout logger.
 
   ## License
 
